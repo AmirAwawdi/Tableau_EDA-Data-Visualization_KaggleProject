@@ -3,7 +3,7 @@ Udacity Tableau project - Exploratory data analysis and data visualization.
 
 [Click here to view the original data source](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
-[Click here to view the online version](https://public.tableau.com/app/profile/amir.awawdi/viz/MasterSchool_UdacityTableauproject-_Youtube_dataEDA/TrendingYouTubeVideoStatistics)
+[Click here to view the online workbook](https://public.tableau.com/app/profile/amir.awawdi/viz/MasterSchool_UdacityTableauproject-_Youtube_dataEDA/TrendingYouTubeVideoStatistics)
 
 ## Project Description
 
